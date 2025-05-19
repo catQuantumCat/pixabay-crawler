@@ -1,0 +1,7 @@
+{
+  "keywords_file": "./keywords.json",
+  "save_root": "./Crawl",
+  "pixabay_api_key": "50379444-6e13bab08d8e6e31a4f970ba1",
+  "url_keys": "webformatURL",
+  "npage": 8
+}
